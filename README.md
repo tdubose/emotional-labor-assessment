@@ -1,4 +1,10 @@
-# Take Care of Yourself#
+Hello, friend! This is a document intended for someone to gauge whether or not they are contributing in a proper way to the emotional labor of their life. This applied to things you do by yourself, with friends acquaintances, with your partner, with your children, and at work. There are a few sections of organization, to emphasize related aspects of emotional labor.
+
+Some of these questions may not seem like they relate to emotional labor. For example, keeping your home clean is not emotional labor. Nonetheless, if you don't do it, you can create emotional labor for the other people in your life, especially your partner--they may worry about how you will be seen by their friends, and how they may be judged for allowing you to live in a dirty house. Therefore, you ought to keep your house clean to spare your partner the burden of that emotional labor.
+
+This list was initially sparked by a [Metafilter discussion](http://www.metafilter.com/151267/Wheres-My-Cut-On-Unpaid-Emotional-Labor) on Jess Zimmerman's article for The Toast, _[“Where’s My Cut?”: On Unpaid Emotional Labor](http://the-toast.net/2015/07/13/emotional-labor/view-all/)_. Commenters on an [Ask Metafilter thread](http://ask.metafilter.com/283189/Emotional-Labor-Checklist-Self-Assessment) helped to refine and vastly expand this checklist.
+
+# Take Care of Yourself #
 
 ## Health and Wellness
 
@@ -18,6 +24,11 @@
 * If I know I'm bad at any of the above or below, do I take steps to hedge against it (e.g. calendar reminders)?
 * Do I do emotional work without expecting a cookie for it?
 * Do I keep my promises without repeated reminders?
+* Am I aware of where my body is in space and how that is likely to affect those around me? Examples:
+	* Squeezing past people
+	* Walking in a direction where I will intersect and force someone to step aside, walking or riding three or four abreast so that no one can get past
+	* Taking up more than my share of space (lavaballing, open newspapers, using both armrests).
+
 
 ## Home Care
 
@@ -148,6 +159,8 @@
 * Do I handle attending social events with my partner well?
 	* If I don't want to go, do I politely decline?
 	* If I have to go anyway (e.g. work or family event), can I behave graciously at the event and not make my partner do extra labor to deal with my attitude when they need to be focusing on the event?
+
+* In monogamous relationships: is the work of protecting our relationship from infidelity shared equally? Do I set boundaries/speak about my partner/represent my relationship positively?
 
 # Childcare #
 
