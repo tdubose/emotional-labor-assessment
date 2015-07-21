@@ -2,7 +2,7 @@ Hello, friend! This is a document intended for someone to gauge whether or not t
 
 Some of these questions may not seem like they relate to emotional labor. For example, keeping your home clean is not emotional labor. Nonetheless, if you don't do it, you can create emotional labor for the other people in your life, especially your partner--they may worry about how you will be seen by their friends, and how they may be judged for allowing you to live in a dirty house. Therefore, you ought to keep your house clean to spare your partner the burden of that emotional labor.
 
-This list was initially sparked by a [Metafilter discussion](http://www.metafilter.com/151267/Wheres-My-Cut-On-Unpaid-Emotional-Labor) on Jess Zimmerman's article for The Toast, _[“Where’s My Cut?”: On Unpaid Emotional Labor](http://the-toast.net/2015/07/13/emotional-labor/view-all/)_. Commenters on an [Ask Metafilter thread](http://ask.metafilter.com/283189/Emotional-Labor-Checklist-Self-Assessment) helped to refine and vastly expand this checklist.
+This list was initially sparked by a [Metafilter discussion](http://www.metafilter.com/151267/Wheres-My-Cut-On-Unpaid-Emotional-Labor) on Jess Zimmerman's article for The Toast, _[“Where’s My Cut?”: On Unpaid Emotional Labor](http://the-toast.net/2015/07/13/emotional-labor/view-all/)_. Commenters on an [Ask Metafilter thread](http://ask.metafilter.com/283189/Emotional-Labor-Checklist-Self-Assessment) helped to refine and vastly expand this checklist. Many thanks to all those contributors, and thanks in advance to anyone who helps with this list!
 
 # Take Care of Yourself #
 
