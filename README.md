@@ -224,7 +224,7 @@ You may have read this list and thought "some of the things on this list are har
 
 * Do I need to perform similar amounts of emotional labor to a woman _who shares my class background, economic instability or other oppressions_?
 * Do I feel the same requirement as a woman who shares my class background, economic instability or other oppressions to perform not only all this, but _additional_ emotional labor in order to reduce the impact of my class background, economic instability or other oppressions on other people?
-* Do I feel a requirement to perform not only all this, but _additional_ emotional labor in order to still be seen as a man despite my class background, economic instability or other oppressions?
+* Do I feel a requirement to perform not only all this, but _additional_ emotional labor in order to still see my self and be seen as a man despite my class background, economic instability or other oppressions?
 * When I am unable to perform some of the emotional labor needed in my life, am I punished nearly as much as a woman who shares my class background, economic instability or other oppressions?
 * When I am unable to perform some of the emotional labor needed in my life, am I taught to punish myself nearly as much as a woman who shares my class background, economic instability or other oppressions?
 * Do people give women who share my class background, economic instability or other oppressions the same assistance I get with emotional labor?
