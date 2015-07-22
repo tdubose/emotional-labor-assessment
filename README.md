@@ -151,7 +151,9 @@ This list was initially sparked by a [Metafilter discussion](http://www.metafilt
 	* Do we both get time to maintain our own health and hygiene?
 	* If the relationship is imbalanced for a while (e.g. someone's in full-time school or has to work overtime) and the other partner picks up the slack, is that compensated when the imbalance ends?
 	* Do I know who has to do each thing to make an event/situation run like the image in my head? Who is responsible for flowers, cards, costumes, casseroles, child-proofing, and are any of those responsible people me?
-	* If I don't unders
+	* If I don't understand why my partner is doing things I think are boring or pointless, am I making a full faith effort to understand those things?
+	* If my partner is neuroatypical and/or has other mental health challenges, do I hold her to a higher standard of managing her condition and emotional state than you would a man? 
+	
 	
 * Is there enthusiastic consent, every time, for the ways I interact with my partner's body?
 * Am I nice to my partner's family, if that's a thing they want?
