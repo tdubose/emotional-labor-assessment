@@ -7,4 +7,4 @@ README.tex: README.md
 	pandoc -s -o README.tex README.md
 
 clean:
-	rm *.tex *.pdf *.log *.out *.aux
+	rm -f *.tex *.pdf *.log *.out *.aux
