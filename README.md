@@ -167,8 +167,8 @@ This list was initially sparked by a [Metafilter discussion](http://www.metafilt
 # Childcare #
 
 * Am I aware of my children's emotional needs?
-	* Do I notice when my child is in an unusually good or bad mood. Do I try and find out why in a supportive way that is age-appropriate and respects their privacy?
-	* Do I know which adults they are close to and do I facilitate contact with those adults?
+	* Do I notice when my child is in an unusually good or bad mood? Do I try and find out why in a supportive way that is age-appropriate and respects their privacy?
+	* Do I know which adults my child is close to and do I facilitate contact with those adults?
 	* Do I make sure that all my children receive fair amounts of attention and affection from me?
 * Do I support my child's social life?
 	* Do I know if they are happy with their social status, and who their friends are?
@@ -192,10 +192,10 @@ This list was initially sparked by a [Metafilter discussion](http://www.metafilt
 	* Am I aware of the dates when vacations, strikes or other special cases will vary my children's care schedule?
 	* Do I seek alternative care to cover vacations, strikes and other special cases?
 	* Do I help my children choose and balance extracurricular activities?
-* Do I perform the labour asked of me by my children's paid carers, if any?
+* If my child has paid carers, do I perform emotional labor to support them?
 	* Do I know what grade of school my child is in?
 	* Do I know what my children's own educational ambitions and goals are?
-	* Do I track roughly what of skills they are working on and do I know what they are currently struggling with educationally?
+	* Do I track roughly what skills they are working on and do I know what they are currently struggling with educationally?
 	* Do I receive and read newsletters or communications from teachers and carers?
 	* Do I notice and reach out to teachers and carers when they aren't meeting my child's needs?
 * Do I model discussions of topics like the patriarchy, misogyny, systematic oppression, and emotional labor for them?
