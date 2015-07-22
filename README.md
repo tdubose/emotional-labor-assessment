@@ -182,7 +182,7 @@ This list was initially sparked by a [Metafilter discussion](http://www.metafilt
 * Am I caring for my children's health?
 	* Do I know who their health providers are and how to contact them?
 	* Do I schedule and attend their health appointments?
-	* Can I give a succint and up to date summary of their medical history?
+	* Can I give a succinct and up to date summary of their medical history?
 	* Do I know what medications they take, and the schedule and dosage?
 	* Do I know their allergies and dietary requirements?
 * Do I maintain or co-maintain my children's schedule?
@@ -200,14 +200,14 @@ This list was initially sparked by a [Metafilter discussion](http://www.metafilt
 	* Do I notice and reach out to teachers and carers when they aren't meeting my child's needs?
 * Do I model discussions of topics like the patriarchy, misogyny, systematic oppression, and emotional labor for them?
 * Do I let the children see us as partners who communicate and negotiate in order to benefit our mutual emotional, mental, and physical health?
-* When my children see misogyny in the world and in pop culture, do I speak up about its toxic effects?
+* When my children see misogyny, racism, and other forms of oppression in the world and in pop culture, do I speak up about its toxic effects?
 
 # Workplace #
 
 * Do I volunteer to do my share of organizing birthday treats/potlucks/whatever social events my workplace may have?
 * If part of the work of my workplace involves listening to/soothing angry customers or clients and making them happy, do I do my appropriate share of that work?
 * Have I taken the steps to learn how to add toner or paper to the copier, or unjam it, or make coffee in the breakroom coffeepot? And do I then notice and do those things when they need to be done?
-* Am I difficult as hell to work with and expect everyone to work around it because I present as male? Cf. "Dealing with people in general".
+* Am I difficult as hell to work with and expect everyone to work around it? Cf. "Dealing with people in general".
 * Do I pitch in to deal with difficult people, to avoid that burden landing on the same people time after time?
 
 # Friend Groups
