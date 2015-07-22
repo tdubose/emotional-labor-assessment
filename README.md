@@ -223,6 +223,7 @@ This list was initially sparked by a [Metafilter discussion](http://www.metafilt
 You may have read this list and thought "some of the things on this list are hard or impossible for me to do" due to class background, economic instability, disability, mental illness, neuroatypicality and many other oppressions. However, here are some questions to think about if you are a man and you have this reaction:
 
 * Do I need to perform similar amounts of emotional labor to a woman _who shares my class background, economic instability or other oppressions_?
+* Do I feel the same requirement as a woman who shares my class background, economic instability or other oppressions to perform not only all this, but _additional_ emotional labor in order to reduce the impact of my class background, economic instability or other oppressions on other people?
 * When I am unable to perform some of the emotional labor needed in my life, am I punished nearly as much as a woman who shares my class background, economic instability or other oppressions?
 * When I am unable to perform some of the emotional labor needed in my life, am I taught to punish myself nearly as much as a woman who shares my class background, economic instability or other oppressions?
 * Do people give women who share my class background, economic instability or other oppressions the same assistance I get with emotional labor?
