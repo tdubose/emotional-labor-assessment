@@ -198,6 +198,16 @@ This list was initially sparked by a [Metafilter discussion](http://www.metafilt
 	* Do I track roughly what skills they are working on and do I know what they are currently struggling with educationally?
 	* Do I receive and read newsletters or communications from teachers and carers?
 	* Do I notice and reach out to teachers and carers when they aren't meeting my child's needs?
+* When my children are babies, do I help adjust for their impact on our household?
+	* If someone else in my household or family is pregnant, do I learn about what pregnancy, labor and delivery and postpartum periods are like? Do I anticipate their likely needs during these times?
+	* Do I learn about the care needs of babies before the baby joins the household?
+	* Do I know how much physical labor and time the nursing parent is spending on the baby?
+	* Am I aware of how the postpartum parent's physical and emotional recovery is going?
+	* Am I spending time with the baby and bonding with them?
+	* Do I know how much sleep the baby is getting? Do I adjust the baby's or household's routine to help them sleep more?
+	* Do I know how much sleep all the other household members are getting? Do I notice when it's disproportionate? Do I make the schedule to keep it fair?
+	* Am I aware of how other children in the household are dealing with a new child? Am I helping them deal with it?
+	* Am I aware of typical developmental milestones for babies? Am I aware of how the baby's development is progressing?
 * Do I model discussions of topics like the patriarchy, misogyny, systematic oppression, and emotional labor for them?
 * Do I let the children see us as partners who communicate and negotiate in order to benefit our mutual emotional, mental, and physical health?
 * When my children see misogyny, racism, and other forms of oppression in the world and in pop culture, do I speak up about its toxic effects?
