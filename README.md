@@ -232,7 +232,7 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 
 # Appendix: Intersections
 
-If you are a man who has difficulty with emotional labor due to experiencing oppressions like economic instability, disability or mental illness, you may have read this list and thought "some of the things on this list are hard or impossible for me to do" due to class background, economic instability, disability, mental illness, neuroatypicality and many other oppressions. However, here are some thought experiments to explore if you are a man and you have this reaction:
+If you are a man who is a member of an oppressed group, you may have read this list and thought "some of the things on this list are hard or impossible for me to do" due to your class background, economic instability, disability, mental illness, neuroatypicality and many other possible oppressions. However, here are some thought experiments to explore if you are a man and you have this reaction:
 
 * Do I need to perform similar amounts of emotional labor to a woman who shares my class background, economic instability or other oppressions?
 * Do I feel the same requirement as a woman who shares my oppressions to perform not only all this, but _additional_ emotional labor in order to reduce the impact of my oppressions on other people?
