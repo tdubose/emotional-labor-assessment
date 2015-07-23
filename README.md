@@ -4,6 +4,8 @@ Some of these questions may not seem like they relate to emotional labor. For ex
 
 This list was initially sparked by a [Metafilter discussion](http://www.metafilter.com/151267/Wheres-My-Cut-On-Unpaid-Emotional-Labor) on Jess Zimmerman's article for The Toast, _[“Where’s My Cut?”: On Unpaid Emotional Labor](http://the-toast.net/2015/07/13/emotional-labor/view-all/)_. Commenters on an [Ask Metafilter thread](http://ask.metafilter.com/283189/Emotional-Labor-Checklist-Self-Assessment) helped to refine and vastly expand this checklist. Many thanks to all those contributors, and thanks in advance to anyone who helps with this list!
 
+If you are a man who has unusual difficulty with emotional labor due to experiencing oppressions like economic instability, disability or mental illness, see the [Intersections](#appendix-intersections) section for some ways to apply this checklist to understanding the gendered nature of emotional work.
+
 # Take Care of Yourself #
 
 ## Health and Wellness
@@ -228,9 +230,9 @@ This list was initially sparked by a [Metafilter discussion](http://www.metafilt
 * Do I actually have everything prepared in advance for an event I'm hosting, or at least clearly and fairly delegated?
 * If there is an imbalance of emotional or physical labor occurring, am I willing to risk social awkwardness to improve the lot of those negatively affected?
 
-# Intersections
+# Appendix: Intersections
 
-You may have read this list and thought "some of the things on this list are hard or impossible for me to do" due to class background, economic instability, disability, mental illness, neuroatypicality and many other oppressions. However, here are some questions to think about if you are a man and you have this reaction:
+If you are a man who has difficulty with emotional labor due to experiencing oppressions like economic instability, disability or mental illness, you may have read this list and thought "some of the things on this list are hard or impossible for me to do" due to class background, economic instability, disability, mental illness, neuroatypicality and many other oppressions. However, here are some thought experiments to explore if you are a man and you have this reaction:
 
 * Do I need to perform similar amounts of emotional labor to a woman _who shares my class background, economic instability or other oppressions_?
 * Do I feel the same requirement as a woman who shares my class background, economic instability or other oppressions to perform not only all this, but _additional_ emotional labor in order to reduce the impact of my class background, economic instability or other oppressions on other people?
