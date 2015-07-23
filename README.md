@@ -238,6 +238,6 @@ If you are a man who is a member of an oppressed group, you may have read this l
 * Do I feel the same requirement as a woman who shares my oppressions to perform not only all this, but _additional_ emotional labor in order to reduce the impact of my oppressions on other people?
 * Do I feel a need to perform not only all this, but _additional_ emotional labor in order to still see my self and be seen as a man despite my oppressions?
 * When I am unable to perform some of the emotional labor needed in my life:
-	* Am I punished nearly as much as a woman who shares my class background, economic instability or other oppressions?
-	* Am I taught to punish myself nearly as much as a woman who shares my oppressions?
+	* Am I punished for not doing the labor nearly as much as a woman who shares my oppressions?
+	* Am I taught to punish myself for not doing the labor nearly as much as a woman who shares my oppressions?
 * Do people give women who share my oppressions the same assistance that I get with emotional labor?
