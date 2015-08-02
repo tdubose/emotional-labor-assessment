@@ -17,12 +17,10 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 	* Do I exercise regularly, unprompted?
 * Do I practice good personal hygiene?
 * Do I regularly wash my clothes myself?
-
 * Do I actively maintain my mental health and do my own emotional work?
 	* Do I maintain a broad, reliable emotional support system?
 	* Do I openly discuss my feelings?
 	* If I am experiencing persistent, particularly tough emotional/mental issues, do I seek professional help?
-
 * If I know I'm bad at any of the above or below, do I take steps to hedge against it (e.g. calendar reminders)?
 * Do I do emotional work without expecting a cookie for it?
 * Do I keep my promises without repeated reminders?
@@ -58,7 +56,7 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 		* Blankets
 		* Seating
 		* Enough plates and utensils for more than one person
-
+		* Clean towels and bedding for overnight guests
 * Do I take care of my own administrative life (paperwork, bills) without needing to be repeatedly reminded?
 
 # Dealing With People In General #
@@ -74,7 +72,7 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 		* Conversely, do I make sure to not talk down to someone?
 
 * Do I demonstrate care towards other people?
-	* If feeding people, am I aware of dietary restrictions?
+	* If feeding people, am I aware of dietary restrictions? Do I provide ingredient lists and scrupulously avoid cross-contamination? Do I observe good kitchen hygiene practices such as frequently washing my hands or wearing disposable gloves?
 	* Am I aware of peoples' attitudes towards alcohol, and do I make attempts to provide them with other tasty beverages?
 	* Am I constantly on the lookout for new important things to remember about people's needs and habits? Examples:
 		* They had a baby
@@ -89,7 +87,9 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 	* Do I lend support in difficult times? Examples:
 		* Sending soup to the bereaved
 		* Listening to someone vent
-
+	* Do I make an effort to keep up with changes to other people’s names, pronouns, relationships, jobs, etc., and apologize sincerely when I forget or get something wrong?
+	* If I’m ill, do I take care to keep from infecting others, especially those with compromised immune systems?
+		
 # Partnered Life #
 
 * Do I communicate well with my partner?
@@ -110,9 +110,9 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 	* If my partner is having a rough day, do I step up to make their life easier in other ways (cooking, cleaning, etc.)?
 	* Do I know what nice things my partner would like, and do I do them without being asked? Examples:
 		* Do they like flowers? Do I know what kinds?
-		* Would they enjoy a night out, or a foot rub, or feeling free to lay on the sofa and watch netflix and eat pizza?
+		* Would they enjoy a night out, or a foot rub, or feeling free to lay on the sofa and watch Netflix and eat pizza?
 	* Do I support of my partner's decisions, big and small?
-	* Do I respect and validate of my partner's emotions?
+	* Do I respect and validate  my partner's emotions?
 	* Do I consistently choose my partner's welfare over that of others?
 	* Do I actively try to make my presence feel safe for my partner?
 	* Do I put aside my own discomfort or squeamishness to help my partner in emotional or physical distress?
@@ -121,6 +121,7 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 		* Clothing sizes
 		* Their personal style
 		* Brands of personal products (e.g. deodorant, shampoo, menstrual products)
+	* If my partner has a difficult relationship with someone, do I take care not to interfere unless they request assistance? And if I interfere, do I take care not to make it worse?
 	
 * Do I take responsibility for my fair share of joint experiences?
 	* Do I contribute to the maintenance of the shared residence?
@@ -141,14 +142,14 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 		* Makeup
 		* Body hair maintenance
 	* Do I pause to observe the context (my partner's body language or current activity, what's been happening today, etc.) before I involve my partner in something me-focused? (Whether that's a request or a touch or whatever.)
-	* Do I unnecessarily interrupt my partner from an activity?
+	* Do I try not to unnecessarily interrupt my partner from an activity?
  
 * Do I actively resist inequity in my relationship? 
 	* Am I conscious of the ways in which my partner will be judged for mutual responsibilities (cleanliness of the house when guests come over, behaviour and appearance of kids, standards of food served, etc) and do I acknowledge those and step up to deliver a good team execution?
 	* Do I actively give my partner backup against the patriarchy and other oppression, in public and private? Examples:
-		* Reminding people that my female partner is not just a mom but is also a scientist doing interesting work
+		* Reminding people that my female partner is, e.g., not just a mom but is also a scientist doing interesting work
 		* Reinforcing their decisions to opt out of emotional or domestic labor
-	* Do we both have a reasonable balance of leisure time and work time for both?
+	* Do we both have a reasonable balance of leisure time and work time?
 	* Are both of us disrupted at the same rate?
 	* Do we both get time to maintain our own health and hygiene?
 	* If the relationship is imbalanced for a while (e.g. someone's in full-time school or has to work overtime) and the other partner picks up the slack, is that compensated when the imbalance ends?
@@ -221,6 +222,12 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 * Have I taken the steps to learn how to add toner or paper to the copier, or unjam it, or make coffee in the breakroom coffeepot? And do I then notice and do those things when they need to be done?
 * Am I difficult as hell to work with and expect everyone to work around it? Cf. "Dealing with people in general".
 * Do I pitch in to deal with difficult people, to avoid that burden landing on the same people time after time?
+* Do I take turns doing the boring, tedious, unpleasant but necessary tasks that make work go smoothly -  like taking and circulating minutes, making copies, and setting up meetings?
+* Do I respect my colleagues’ time by keeping my scheduled commitments, scheduling my leave for a time that’s convenient for everyone, letting people know well in advance if I’ll be out, and making sure someone covers for me when I’m not around?
+* Do I explicitly ask people to take on tasks I’d rather not do, or explicitly assign/delegate tasks to my subordinates, rather than assuming someone will figure out what needs doing and pick up the slack?
+* Do I communicate clearly and consistently? Do I follow oral conversations with a summary in writing, in a way that’s easy for other people to access when they need to? Do I make sure others know what they can and can’t expect from me?
+* Do I take care to keep from making my subordinates anxious about job stability, e.g., by sending emails that say “Fill me in on the Johnson deal” rather than “See me when you have a moment”?
+* Do I treat receptionists, janitors, doormen, package and mail carriers, and other low-wage workers with respect?
 
 # Friend Groups
 
@@ -229,6 +236,18 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 * When planning an event, do I take into account different peoples' preferences for food, beverages, music, etc., so that no one feels excluded?
 * Do I actually have everything prepared in advance for an event I'm hosting, or at least clearly and fairly delegated?
 * If there is an imbalance of emotional or physical labor occurring, am I willing to risk social awkwardness to improve the lot of those negatively affected?
+* If someone tells me a secret, do I keep their confidence? Do I generally refrain from tale-telling and gossip, and encourage people to talk directly rather than offering to be a go-between?
+* If someone is being harassed or hassled, do I check in with them and support them in the way that they indicate would be most useful to them? Do I support victims even when the person mistreating them is a friend of mine?
+* If I’m privileged in a way that other friends of mine are not, do I use my privilege to support and amplify their voices as well as personally advocating for their rights and well-being? Examples:
+	*  As a man, do I vocally support feminism?
+	*  As a white person, do I vocally oppose racism?
+	*  Do I shut down people who tell bigoted jokes or use slurs? Do I actively work to remove slurs from my own speech?
+	*  Do I remember my friends’ pronouns and names, use them correctly, and correct anyone who uses the wrong name or pronoun for a friend of mine?
+	*  If someone in my social circle identifies a specific “missing stair” person or a systemic problem, do I back them up?
+	*  Do I work to create a social atmosphere where women feel safe and comfortable? Do I oust men from my social circle if they mistreat women?
+	*  Do I educate myself on the history and current situation of minorities in my community, rather than asking my friends to teach me something I could Google?
+	*  Do I check in regularly with friends who don’t share my privilege to make sure I’m helping to make our shared social circles safe and comfortable for them?
+	*  If friends of mine create a safe space for a particular minority, and I’m not a part of that minority, do I respect that space and not try to force my way into it or shut it down?
 
 # Appendix: Intersections
 
