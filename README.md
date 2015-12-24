@@ -2,7 +2,7 @@ Hello, friend! This is a document intended for someone to gauge whether or not t
 
 Some of these questions may not seem like they relate to emotional labor. For example, keeping your home clean is not emotional labor. Nonetheless, if you don't do it, you can create emotional labor for the other people in your life, especially your partner--they may worry about how you will be seen by their friends, and how they may be judged for allowing you to live in a dirty house. Therefore, you ought to keep your house clean to spare your partner the burden of that emotional labor.
 
-This list was initially sparked by a [Metafilter discussion](http://www.metafilter.com/151267/Wheres-My-Cut-On-Unpaid-Emotional-Labor) on Jess Zimmerman's article for The Toast, _[“Where’s My Cut?”: On Unpaid Emotional Labor](http://the-toast.net/2015/07/13/emotional-labor/view-all/)_. Commenters on an [Ask Metafilter thread](http://ask.metafilter.com/283189/Emotional-Labor-Checklist-Self-Assessment) helped to refine and vastly expand this checklist. Many thanks to all those contributors, and thanks in advance to anyone who helps with this list!
+This list was initially sparked by a [Metafilter discussion](http://www.metafilter.com/151267/Wheres-My-Cut-On-Unpaid-Emotional-Labor) on Jess Zimmerman's article for The Toast, _[“Where’s My Cut?”: On Unpaid Emotional Labor](http://the-toast.net/2015/07/13/emotional-labor/)_. Commenters on an [Ask Metafilter thread](http://ask.metafilter.com/283189/Emotional-Labor-Checklist-Self-Assessment) helped to refine and vastly expand this checklist. Many thanks to all those contributors, and thanks in advance to anyone who helps with this list!
 
 If you are a man who has unusual difficulty with emotional labor due to experiencing oppressions like economic instability, disability or mental illness, see the [Intersections](#appendix-intersections) section for some ways to apply this checklist to understanding the gendered nature of emotional work.
 
@@ -195,7 +195,7 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 	* Am I aware of the dates when vacations, strikes or other special cases will vary my children's care schedule?
 	* Do I seek alternative care to cover vacations, strikes and other special cases?
 	* Do I help my children choose and balance extracurricular activities?
-* If my child has paid carers, do I perform emotional labor to support them?
+* If my child has paid caregivers, do I perform emotional labor to support them?
 	* Do I know what grade of school my child is in?
 	* Do I know what my children's own educational ambitions and goals are?
 	* Do I track roughly what skills they are working on and do I know what they are currently struggling with educationally?
