@@ -111,7 +111,7 @@ If you are a man who has unusual difficulty with emotional labor due to experien
 	* Do I know what nice things my partner would like, and do I do them without being asked? Examples:
 		* Do they like flowers? Do I know what kinds?
 		* Would they enjoy a night out, or a foot rub, or feeling free to lay on the sofa and watch Netflix and eat pizza?
-	* Do I support of my partner's decisions, big and small?
+	* Do I support my partner's decisions, big and small?
 	* Do I respect and validate  my partner's emotions?
 	* Do I consistently choose my partner's welfare over that of others?
 	* Do I actively try to make my presence feel safe for my partner?
